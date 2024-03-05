@@ -1,0 +1,26 @@
+/* Add custom CSS styles here */
+h2 {
+    margin-bottom: 2rem;
+  }
+  
+  .form-control {
+    margin-bottom: 1.5rem;
+  }
+  
+  .btn-primary {
+    margin-top: 1rem;
+  }
+  
+  .list-unstyled {
+    padding-left: 0;
+  }
+  
+  .list-unstyled li {
+    margin-bottom: 1rem;
+  }
+  
+  .list-unstyled li i {
+    font-size: 1.5rem;
+    margin-right: 0.5rem;
+  }
+  

@@ -1,0 +1,27 @@
+.project-card {
+    border: none;
+    transition: transform 0.3s ease;
+  }
+  
+  .project-card:hover {
+    cursor: pointer;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    color: #666;
+  }
+  
+  .card-body {
+    padding: 1.5rem;
+  }
+  
+  .card-img-top {
+    object-fit: cover;
+    height: 200px;
+  }
+  
